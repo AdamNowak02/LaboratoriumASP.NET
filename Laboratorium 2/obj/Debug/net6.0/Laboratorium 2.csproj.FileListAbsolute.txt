@@ -1,0 +1,26 @@
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\bin\Debug\net6.0\appsettings.json
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\bin\Debug\net6.0\Laboratorium 2.staticwebassets.runtime.json
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\bin\Debug\net6.0\Laboratorium 2.exe
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\bin\Debug\net6.0\Laboratorium 2.deps.json
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\bin\Debug\net6.0\Laboratorium 2.runtimeconfig.json
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\bin\Debug\net6.0\Laboratorium 2.dll
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\bin\Debug\net6.0\Laboratorium 2.pdb
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.csproj.AssemblyReference.cache
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.AssemblyInfoInputs.cache
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.AssemblyInfo.cs
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.csproj.CoreCompileInputs.cache
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.RazorAssemblyInfo.cache
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.RazorAssemblyInfo.cs
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\scopedcss\bundle\Laboratorium 2.styles.css
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\scopedcss\projectbundle\Laboratorium 2.bundle.scp.css
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.dll
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\refint\Laboratorium 2.dll
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.pdb
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\Laboratorium 2.genruntimeconfig.cache
+C:\Users\poco2\source\repos\Lab_ASP.NET\Laboratorium 2\obj\Debug\net6.0\ref\Laboratorium 2.dll
