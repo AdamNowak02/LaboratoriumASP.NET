@@ -1,0 +1,52 @@
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\bin\Debug\net6.0\appsettings.json
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\bin\Debug\net6.0\Laboratorium3APKA.staticwebassets.runtime.json
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\bin\Debug\net6.0\Laboratorium3APKA.exe
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\bin\Debug\net6.0\Laboratorium3APKA.deps.json
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\bin\Debug\net6.0\Laboratorium3APKA.runtimeconfig.json
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\bin\Debug\net6.0\Laboratorium3APKA.dll
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\bin\Debug\net6.0\Laboratorium3APKA.pdb
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.csproj.AssemblyReference.cache
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.AssemblyInfoInputs.cache
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.AssemblyInfo.cs
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.csproj.CoreCompileInputs.cache
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.RazorAssemblyInfo.cache
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.RazorAssemblyInfo.cs
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\scopedcss\bundle\Laboratorium3APKA.styles.css
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\scopedcss\projectbundle\Laboratorium3APKA.bundle.scp.css
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.dll
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\refint\Laboratorium3APKA.dll
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.pdb
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\Laboratorium3APKA.genruntimeconfig.cache
+C:\Users\poco2\Desktop\Laboratorium-ASP.NET-master\Laboratorium-ASP.NET-master\Laboratorium 3 - Post App\obj\Debug\net6.0\ref\Laboratorium3APKA.dll
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\bin\Debug\net6.0\appsettings.json
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\bin\Debug\net6.0\Laboratorium3APKA.staticwebassets.runtime.json
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\bin\Debug\net6.0\Laboratorium3APKA.exe
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\bin\Debug\net6.0\Laboratorium3APKA.deps.json
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\bin\Debug\net6.0\Laboratorium3APKA.runtimeconfig.json
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\bin\Debug\net6.0\Laboratorium3APKA.dll
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\bin\Debug\net6.0\Laboratorium3APKA.pdb
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.csproj.AssemblyReference.cache
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.AssemblyInfoInputs.cache
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.AssemblyInfo.cs
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.csproj.CoreCompileInputs.cache
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.RazorAssemblyInfo.cache
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.RazorAssemblyInfo.cs
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\scopedcss\bundle\Laboratorium3APKA.styles.css
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\scopedcss\projectbundle\Laboratorium3APKA.bundle.scp.css
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.dll
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\refint\Laboratorium3APKA.dll
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.pdb
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\Laboratorium3APKA.genruntimeconfig.cache
+C:\Users\poco2\source\repos\LaboratoriumASP.NET\Laboratorium3APKA\obj\Debug\net6.0\ref\Laboratorium3APKA.dll
